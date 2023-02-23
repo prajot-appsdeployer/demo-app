@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015442343553",
+    "project_id": "demoapprn-dc337",
+    "storage_bucket": "demoapprn-dc337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015442343553:android:f5dfac6b3fcb8fa1e7af80",
+        "android_client_info": {
+          "package_name": "com.demoapprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015442343553-8php20n5q2mcvqfu7t7fq4utl8ip2js4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLoA3fapUGr9H8FvM2zg8aC5WNU0xQPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015442343553-8php20n5q2mcvqfu7t7fq4utl8ip2js4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
